@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Fugaz+One&display=swap');
+
+
+
+h1 {
+  color:#662db5;
+  font-size:35px;
+  font-family: 'Fugaz One', cursive;
+}
+
+h2 {
+  color:#662db5;
+  font-size:30px;
+  font-family: 'Fugaz One', cursive;
+}
+
+h3 {
+  font-size:29px;
+  color:#662db5;
+  font-family: 'Fugaz One', cursive;
+}
+
+p {
+  font-size:18px;
+  color:#662db5;
+  font-family: 'Fugaz One', cursive;
+}
+
+q {
+  font-size:18px;
+  color:#662db5;
+  font-family: 'Fugaz One', cursive;
+}
+
+img {
+  border-radius:8px;
+  width:30%;
+}
+
+body {
+  background-color:#fab4e5;
+}
+
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #fab4e5;
+  font-family: 'Fugaz One', cursive;
+  font-size: 15px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #662db5;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border: 5px ridge;
+}
+
+li a:hover {
+  background-color: #662db5;
+  color: white;
+}
